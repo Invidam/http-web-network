@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "76b069a5b94aad76",
+        "id": "813373ed6ca3980e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "07_웹브라우저요청흐름.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07_웹브라우저요청흐름.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07_웹브라우저요청흐름.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "07_웹브라우저요청흐름.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -128,6 +120,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "76b069a5b94aad76",
-  "lastOpenFiles": []
+  "active": "813373ed6ca3980e",
+  "lastOpenFiles": [
+    "무제노트.md",
+    "정리/01_인터넷통신.md",
+    "README.md",
+    "정리/07_웹브라우저요청흐름.md"
+  ]
 }
